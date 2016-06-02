@@ -1,0 +1,25 @@
+.container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.container .row {
+  margin: 0 auto;
+}
+
+.card-title {
+  color: yellow;
+  font-size: 10px;
+}
+
+.gete {
+  font-size: 30px;
+  text-align: center;
+}
+
+.head {
+  color: blue;
+}
