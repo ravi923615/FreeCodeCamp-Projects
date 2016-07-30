@@ -1,0 +1,310 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"url",
+				"urlObj"
+			],
+			[
+				"url_",
+				"url_after"
+			],
+			[
+				"newU",
+				"newURLstring"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/kailash/Documents/GitHub/FreeCodeCamp-Projects/URLShortner/app/api/Remove Duplicates from Sorted List.cpp",
+		"/C/Users/kailash/Documents/GitHub/FreeCodeCamp-Projects/URLShortner/app/api/Ugly Number.cpp",
+		"/C/Users/kailash/Documents/GitHub/FreeCodeCamp-Projects/URLShortner/app/api/Same Tree.cpp",
+		"/C/Users/kailash/Documents/GitHub/FreeCodeCamp-Projects/URLShortner/app/api/Happy Number.cpp",
+		"/C/Users/kailash/AndroidStudioProjects/WhatON_wer/app/src/main/java/com/example/android/sunshine/app/CustomMovieAdapter.java",
+		"/C/Users/kailash/Downloads/Compressed/Sunshine-Version-2-lesson_4_content_provider_starter_code/Sunshine-Version-2-lesson_4_content_provider_starter_code/WeatherProvider.java",
+		"/C/Users/kailash/Documents/GitHub/LeetCode/Add Digits.cpp",
+		"/C/Users/kailash/Documents/GitHub/LeetCode/Power of Two.cpp",
+		"/C/Users/kailash/Documents/GitHub/LeetCode/Remove Element.cpp",
+		"/C/Users/kailash/Documents/GitHub/LeetCode/Contains Duplicate.cpp",
+		"/C/Users/kailash/Documents/GitHub/LeetCode/Delete Node in a Linked List.cpp",
+		"/C/Users/kailash/Documents/GitHub/LeetCode/Valid Number.cpp",
+		"/C/Users/kailash/Documents/GitHub/LeetCode/Reverse Linked List.cpp",
+		"/C/Users/kailash/Documents/GitHub/LeetCode/Intersection of Two Arrays.cpp",
+		"/C/Users/kailash/Documents/GitHub/LeetCode/Fraction to Recurring Decimal.cpp",
+		"/C/Users/kailash/AndroidStudioProjects/Sunshine-Version-2/app/src/androidTest/java/com/example/android/sunshine/app/FullTestSuite.java",
+		"/C/Users/kailash/AndroidStudioProjects/Sunshine-Version-2/app/src/androidTest/java/com/example/android/sunshine/app/ApplicationTest.java",
+		"/C/Users/kailash/AndroidStudioProjects/Sunshine-Version-2/app/src/main/java/com/example/android/sunshine/app/ForecastFragment.java",
+		"/C/Users/kailash/Documents/GitHub/Sunshine/README.md",
+		"/C/Users/kailash/Documents/GitHub/WhatON/README.md",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Game of Thrones - I.cpp",
+		"/C/Users/kailash/Documents/GitHub/WhatON/app/src/main/java/com/example/android/sunshine/app/MainActivity.java",
+		"/C/Users/kailash/Documents/GitHub/WhatON/app/src/main/java/com/example/android/sunshine/app/MovieListFragment.java",
+		"/C/Users/kailash/Documents/GitHub/WhatON/app/src/main/java/com/example/android/sunshine/app/CustomMovie.java",
+		"/C/Users/kailash/Documents/GitHub/WhatON/app/src/main/res/layout/list_movie_image.xml",
+		"/C/Users/kailash/Documents/GitHub/LeetCode/Move Zeroes.cpp",
+		"/C/Users/kailash/Documents/GitHub/LeetCode/Substring with Concatenation of All Words.cpp",
+		"/C/Users/kailash/Documents/GitHub/LeetCode/Palindrome Number.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Sherlock and The Beast.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Largest Number.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Factorial Trailing Zeroes.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Power of Three.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Single Number.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Palindrome Number.cpp",
+		"/C/Users/kailash/Documents/GitHub/WhatON/app/src/main/java/com/example/android/sunshine/app/CustomMovieAdapter.java",
+		"/C/Users/kailash/Documents/GitHub/FreeCodeCamp/FreeCodeCamp/gulpfile.js",
+		"/C/Users/kailash/Documents/GitHub/FreeCodeCamp-Projects/URLShortner/app/routes/index.js",
+		"/C/Users/kailash/Documents/GitHub/FreeCodeCamp-Projects/URLShortner/app/api/urlshortner.js",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Quicksort In-Place.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Bigger is Greater.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Mars Exploration.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Voting.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Mystery Number.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Ghosts.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Target.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Reverse Linked List.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Detect Cycle.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Library Fine.py",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Caesar Cipher.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Angry Professor.c",
+		"/C/Users/kailash/Documents/GitHub/FreeCodeCamp-Projects/URLShortner/package.json",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Jim and the Orders.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Find Digits.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Alternating Characters.py",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Gemstones.py",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Funny String.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Two Strings.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Pangrams.py",
+		"/C/Users/kailash/Documents/GitHub/ReactProject/package.json",
+		"/C/Users/kailash/Documents/GitHub/ReactProject/src/Chat.js",
+		"/C/Users/kailash/Documents/GitHub/ReactProject/src/ChatMessage.js",
+		"/C/Users/kailash/Documents/GitHub/ReactProject/src/index.js",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/algorithmic crush.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Find the Median.cpp",
+		"/C/Users/kailash/Documents/GitHub/UrlShortner/package.json",
+		"/C/Users/kailash/Documents/GitHub/UrlShortner/server.js",
+		"/F/Study_CDAC/ProjectOnGoing/FindABusService/src/find/bus/BusController.java",
+		"/F/Study_CDAC/ProjectOnGoing/FindABusService/src/find/bus/BusDetail.java",
+		"/F/Study_CDAC/ProjectOnGoing/FindABusService/src/find/bus/BusModel.java",
+		"/F/Study_CDAC/ProjectOnGoing/FindABusService/src/find/bus/FindBusDAO.java",
+		"/F/Study_CDAC/ProjectOnGoing/LoginServiceWCF/DataBaseLayer/Model1.Designer.cs",
+		"/C/Users/kailash/Documents/GitHub/ReactProject/Mark and Toys.cpp",
+		"/C/Users/kailash/Documents/GitHub/ReactProject/index.html",
+		"/C/Users/kailash/Documents/GitHub/ReactProject/build/app.js",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Quicksort 1 - Partition.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Missing Numbers.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Insertion Sort - Part 2.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Insertion Sort - Part 1.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Running Time of Algorithms.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/The Full Counting Sort.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Counting Sort 1.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Grid Challenge.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Pairs.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Max Min.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Counting Sort 3.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Counting Sort 2.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Largest Permutation.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Greedy Florist.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Lonely Integer.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Sherlock and Array.cpp",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Priyanka and Toys.cpp",
+		"/F/Study_CDAC/advanced java/advancedjava_1/helloworld/src/tier3/basics/DAOImplementation.java",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/public/controllers/index.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/public/views/index.html",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/bower.json",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/public/views/Login.html",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/templates/views/index.jade",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/keystone.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/public/views/signup.html",
+		"/C/Users/kailash/Documents/GitHub/ProjectX/home.html",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/routelogin.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/public/app.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/loginjs.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/public/controllers/login.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/public/services/auth.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/public/controllers/navbar.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/public/bower_components/angular-aria/package.json",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/public/bower_components/angular-aria/index.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/routes/index.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/routes/views/index.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/routes/api/signin.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/routes/api/signout.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/gulpfile.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/main.css",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/loginstyle.css",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/Login.html",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/Home.html",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/test.html",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/Login",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/public/bower_components/angular-material/angular-material.js",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/package.json",
+		"/C/Users/kailash/Documents/GitHub/thegadgetshop/public/bower_components/angular-material/.bower.json",
+		"/C/Users/kailash/Documents/GitHub/ProjectX/.env",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/Chief Hopper.cpp",
+		"/C/nodeproject/projectX/app/app.component.ts",
+		"/C/nodeproject/projectX/index.html",
+		"/C/Users/kailash/Documents/GitHub/Hackerrank_Solutions/The Maximum Subarray.cpp",
+		"/C/nodeproject/ProjectX_Polymer/app/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"};",
+			"12",
+			"});",
+			"Phones",
+			"justified",
+			"></"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "urlshortner.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

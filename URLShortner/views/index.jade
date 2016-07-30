@@ -1,0 +1,23 @@
+extends layout
+
+block content
+  div(class="container-fluid")
+  
+    if (err)
+        div
+            h2(style = "color: red;")= err
+  
+    img(src="https://avatars2.githubusercontent.com/u/9209410?v=3&s=460" alt="My Face")
+    p
+      a(href="mailto:ravi923615@gmail.com") 
+        i(class="fa fa-envelope fa-fw")
+      a(href="https://github.com/Rafase282" target="_blank") 
+        i(class="fa fa-github fa-fw")
+    p Created by Ravi Kumar.
+    h1(class="header")
+      | FreeCodeCamp API Basejump: URL Shortener Microservice
+    blockquote
+      p User stories:
+      ul
+        li I can pass a URL as a parameter and I will receive a shortened URL in the JSON response.</ul>
+        li When I visit that shortened URL, it will redirect me to my original link.</ul>
